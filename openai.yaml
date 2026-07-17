@@ -1,7 +1,0 @@
-interface:
-  display_name: "研发过程记录"
-  short_description: "用极少关键节点还原完整研发流程，并生成总结与简历亮点"
-  default_prompt: "使用 $track-dev-work 开始记录这个开发需求，只保留足以还原完整流程的少数关键节点。"
-
-policy:
-  allow_implicit_invocation: true
